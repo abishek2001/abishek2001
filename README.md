@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1>🌱 I’m currently learning ...</h1>
--    Web Developement<br>
+- &nbsp;    Web Developement<br>
 -    Machine Learning<br>
 -    Competitive Coding<br>
 <h1> 👯 I’m looking to collaborate on ...</h1>
