@@ -5,12 +5,13 @@
 -    Machine Learning<br>
 -    Competitive Coding<br>
 <h1> 👯 I’m looking to collaborate on ...</h1>
--     Web Developement
+- Web Developement
 <h1>🤔 I’m looking for help with ...</h1>
--     Cloud Computing<br>
+- Cloud Computing
 -     Backend Developement<br>
 <h1>🔭 I’m currently working on ...</h1>
--       https://fyi-vitc.web.app/#/ (current)
+- https://fyi-vitc.web.app/#/ (current)
+     
 <h1> 📫 How to reach me: ...</h1>
 -       Linkedin  -https://www.linkedin.com/in/abishek-mahesh-63885417a/<br>
 -       Instagram -https://www.instagram.com/abishek_82/?hl=bn<br>
