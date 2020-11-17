@@ -22,7 +22,7 @@
 - Instagram -https://www.instagram.com/abishek_82/?hl=bn
 
 
-<h3>🛠 Tech Stack</h3>
+<h1>🛠 Tech Stack</h1>
 
 - 💻 &nbsp; Python | C | C++  
 - 🌐 &nbsp; React | HTML | CSS | JavaScript | Bootstrap | SASS 
