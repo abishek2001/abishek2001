@@ -10,17 +10,18 @@
 <h1>🤔 I’m looking for help with ...</h1>
 
 - Cloud Computing
--     Backend Developement
+- Backend Developement
+
 <h1>🔭 I’m currently working on ...</h1>
 
 - https://fyi-vitc.web.app/#/ (current)
      
 <h1> 📫 How to reach me: ...</h1>
 
--       Linkedin  -https://www.linkedin.com/in/abishek-mahesh-63885417a/<br>
--       Instagram -https://www.instagram.com/abishek_82/?hl=bn<br>
+- Linkedin  -https://www.linkedin.com/in/abishek-mahesh-63885417a/
+- Instagram -https://www.instagram.com/abishek_82/?hl=bn
 
-</br>
+
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C | C++  
