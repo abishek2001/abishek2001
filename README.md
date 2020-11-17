@@ -16,7 +16,7 @@
 
 - https://fyi-vitc.web.app/#/ (current)
      
-<h1> 📫 How to reach me: ...</h1>
+<h1> 📫 How to reach me ...</h1>
 
 - Linkedin  -https://www.linkedin.com/in/abishek-mahesh-63885417a/
 - Instagram -https://www.instagram.com/abishek_82/?hl=bn
