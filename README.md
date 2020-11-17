@@ -1,16 +1,16 @@
 ### Hi there 👋
-*<h1>🌱 I’m currently learning ...</h1>
+<h1>🌱 I’m currently learning ...</h1>
 *    Web Developement
 *    Machine Learning
 *    Competitive Coding
-*<h1> 👯 I’m looking to collaborate on ...</h1>
+<h1> 👯 I’m looking to collaborate on ...</h1>
 *     Web Developement
-*<h1>🤔 I’m looking for help with ...</h1>
+<h1>🤔 I’m looking for help with ...</h1>
 *     Cloud Computing
 *     Backend Developement
-*<h1>🔭 I’m currently working on ...</h1>
+<h1>🔭 I’m currently working on ...</h1>
 *       https://fyi-vitc.web.app/#/ (current)
-*<h1> 📫 How to reach me: ...</h1>
+<h1> 📫 How to reach me: ...</h1>
 *       Linkedin  -https://www.linkedin.com/in/abishek-mahesh-63885417a/
 *       Instagram -https://www.instagram.com/abishek_82/?hl=bn
 
